@@ -1,4 +1,5 @@
-Analisis de Rotación de Empleados
+###Analisis de Rotación de Empleados
+
 El objetivo del análisis es identificar los factores clave que influyen en la rotación de empleados y generar recomendaciones basadas en datos que ayuden al área de Recursos Humanos a diseñar estrategias efectivas de retención.
 
 Preguntas clave del análisis: ¿Cuál es la tasa general de rotación en la organización? ¿Qué departamentos y roles presentan mayor rotación? ¿Cómo se relacionan la edad, la educación y la distancia al trabajo con la rotación? ¿Qué patrones se observan según género, estado civil y frecuencia de viajes?
