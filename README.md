@@ -10,16 +10,17 @@ Proceso de análisis
 3.	Modelado Predictivo
 
 Conclusiones
-•	Las variables JobRole, OverTime y MaritalStatus mostraron mayor influencia en la tasa de abandono.
-•	Los empleados con menor satisfacción y estabilidad laboral presentan una mayor probabilidad de rotación.
-•	Las correlaciones entre variables numéricas son bajas, lo que sugiere independencia entre factores, aunque se observaron asociaciones notables con horas extra, rol laboral y estado civil.
-•	Factores como StockOptionLevel, pertenecer a I+D y la satisfacción laboral favorecen la permanencia de los empleados en la compañía.
-•	El modelo ensamblado (Logistic Regression + Gradient Boosting) alcanzó un mejor balance entre sensibilidad y exactitud en comparación con los modelos individuales y se presenta como una herramienta efectiva para priorizar estrategias de retención
+
+- Las variables JobRole, OverTime y MaritalStatus mostraron mayor influencia en la tasa de abandono.
+- Los empleados con menor satisfacción y estabilidad laboral presentan una mayor probabilidad de rotación.
+- Las correlaciones entre variables numéricas son bajas, lo que sugiere independencia entre factores, aunque se observaron asociaciones notables con horas extra, rol laboral y estado civil.
+- Factores como StockOptionLevel, pertenecer a I+D y la satisfacción laboral favorecen la permanencia de los empleados en la compañía.
+- El modelo ensamblado (Logistic Regression + Gradient Boosting) alcanzó un mejor balance entre sensibilidad y exactitud en comparación con los modelos individuales y se presenta como una herramienta efectiva para priorizar estrategias de retención
 
 Recomendaciones
-•	Fortalecer planes de desarrollo profesional en roles de ventas y administrativos.
-•	Reducir las horas extra y promover el equilibrio vida-trabajo.
-•	Implementar encuestas de satisfacción periódicas para anticipar el riesgo de abandono.
+- Fortalecer planes de desarrollo profesional en roles de ventas y administrativos.
+- Reducir las horas extra y promover el equilibrio vida-trabajo.
+- Implementar encuestas de satisfacción periódicas para anticipar el riesgo de abandono.
 
 Vista previa del dashboard
 ![Dashboard Preview](./dashboard_preview.png)
