@@ -28,5 +28,8 @@ Vista previa del dashboard
 Explora el dashboard interactivo en Tableau Public:
 [Employee Attrition Dashboard](https://public.tableau.com/app/profile/katherine.parra5686/viz/HR_Analysis_17628044953940/Dashboard2)
 
-Consulta el análisis exploratorio general de los datos ![ConsultasSQL](./Rotacion_empleados.ipynb)
-Consulta el análisis de la rotación y el modelado predictivo ![EDA + ML](./EDA_Attrition_IBM.ipynb)
+Consulta el análisis exploratorio general de los datos
+![ConsultasSQL](./Rotacion_empleados.ipynb)
+
+Consulta el análisis de la rotación y el modelado predictivo
+![EDA + ML](./EDA_Attrition_IBM.ipynb)
